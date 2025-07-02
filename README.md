@@ -17,6 +17,12 @@ A classic **Tic-Tac-Toe game** implemented as a web application using HTML, CSS,
 > The task was to create a fully functional **Tic-Tac-Toe Web Application** with a user-friendly interface and win/draw logic.
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/HENRY-AIFST/PRODIGY_WD_03/blob/main/dist/assest/cross1.png" alt="Tic-Tac-Toe UI" width="60%" />
+  </p>
+
 
 ## ✨ Features
 
