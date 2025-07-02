@@ -39,6 +39,7 @@ PRODIGY_WD_03/
 git clone https://github.com/mehul00000/PRODIGY_WD_03.git
 cd PRODIGY_WD_03
 open index.html
+```
 🌟 Future Enhancements
 🤖 Add single-player mode with basic AI
 
