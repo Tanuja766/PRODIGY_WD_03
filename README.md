@@ -61,7 +61,7 @@ This project is licensed under the MIT License – feel free to use and modify i
 👨‍💻 Developer
 GitHub: mehul00000
 
-Email: mehul123@gmail.com
+Email: mehulsharma31253@gmail.com
 
 Live App: Netlify Deployment
 
