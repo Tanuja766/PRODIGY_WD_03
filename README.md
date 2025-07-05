@@ -59,9 +59,8 @@ open index.html
 This project is licensed under the MIT License – feel free to use and modify it.
 
 👨‍💻 Developer
-GitHub: mehul00000
+GitHub: Tanuja766
 
-Email: mehulsharma31253@gmail.com
 
 Live App: Netlify Deployment
 
